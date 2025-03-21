@@ -1,0 +1,1 @@
+<footer>There are footer</footer>
